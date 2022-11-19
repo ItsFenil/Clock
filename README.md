@@ -1,4 +1,4 @@
 # Clock
 Build using HTML, CSS, JS
 
-https://itsfenil.github.io/Clock/
+Live demo: https://itsfenil.github.io/Clock/
